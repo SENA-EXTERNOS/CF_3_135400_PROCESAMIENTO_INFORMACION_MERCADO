@@ -33,10 +33,11 @@
                     .row.display-flex
                       .col-2
                         img(src='@/assets/curso/temas/Tema1/img3.svg')  
-                      .col-10.mb-3       
-                        p.mt-4 El proceso de ‘verificación de los instrumentos para la recolección de la información’ consiste en inspeccionar las preguntas del estudio investigativo, esto con el fin de lograr identificar las posibles fallas o mejoras que estas posean, de igual forma se plantea conocer que todas las preguntas sean pertinentes, se encuentren en el orden adecuado y además que sean suficientes con el proceso investigativo. (Hincapié y Rincón, 2002)  
+                      .col-10.p-3   
+                        p El proceso de ‘verificación de los instrumentos para la recolección de la información’ consiste en inspeccionar las preguntas del estudio investigativo, esto con el fin de lograr identificar las posibles fallas o mejoras que estas posean, de igual forma se plantea conocer que todas las preguntas sean pertinentes, se encuentren en el orden adecuado y además que sean suficientes con el proceso investigativo. (Hincapié y Rincón, 2002)  
+                       
                   .col-lg-9
-                    p.mt-3 No existe un paso a paso especifico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación:   
+                    p.mt-2 No existe un paso a paso especifico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación:   
 
               
                 .col-9.col-lg-3
