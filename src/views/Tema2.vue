@@ -89,21 +89,10 @@
           img(src='@/assets/curso/temas/Tema2/img3.png').imagen-deco
       
     
-      
-    .row.justify-content-center.mt-3
-      .col-lg-11.sm-2
-        .bloque-texto-g.color-secundario.p-4.mb-4
-          .row.justify-content-center
-            .col-lg-2
-              figure
-                img(src='@/assets/curso/temas/Tema2/img4.png').img3  
-          
-            .col-lg-7
-              p En relación con la seguridad de la información, se refiere a cualquier información o elemento relacionado con el tratamiento de ésta que tenga valor para la entidad, por ejemplo: archivos, bases de datos, expedientes, entre otros.
-
-
-
-
+    .row.justify-content-around.mt-4
+      .col-lg-12
+        figure
+          img(src='@/assets/curso/temas/Tema2/tarjeta.png')
 
 
 

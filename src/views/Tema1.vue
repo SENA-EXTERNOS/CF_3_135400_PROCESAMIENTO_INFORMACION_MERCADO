@@ -174,8 +174,8 @@
               figure
                 img(src="@/assets/curso/temas/Tema1/img10.png", alt="alt").img100
             .col
-              h5 Imágenes 
-              p Según el tipo de resultado a obtener, si se es necesario, los encuestadores deberán suministrar imágenes o gráficos relevantes para el desarrollo de las preguntas, un ejemplo de esto es la selección de un logo o la muestra de determinada tipología de prenda de vestir.
+              h5 Cámara y grabadora de audio  
+              p Estas son exclusivamente del uso del encuestador, sin embargo, es importante aclarar que este tipo de elementos solo podrán ser usados de acuerdo a las políticas de la empresa y el consentimiento de las personas encuestadas, es por eso que es necesario tener un permiso previo para su utilización dentro del proceso investigativo.
         
 
 

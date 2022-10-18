@@ -16,18 +16,20 @@
           p.mb-0 Bienvenido al componente formativo ‘Aplicación de instrumentos para recolectar información’ del programa ‘Procesamiento de información de mercados’, este espacio estará enfocado en el proceso formativo de acuerdo con la competencia de aprendizaje orientada en ‘encuestar personas según la técnica de recolección y manual de encuestador’, donde se podrá conocer las condiciones, términos y pasos, para la verificación y aplicación de instrumentos de recolección de información, enfocado en la metodología de aplicación de instructivos, elementos de apoyo y el plan de recolección de datos. Además, se mostrarán las diferentes aplicaciones de estos procesos de forma online y presencial, las rutas de recolección y los protocolos de diligenciamiento en la recopilación de información. 
 
     
-    .row.justify-content-center.mt-3
-      .col-lg-11.sm-2
+    .row.justify-content-center.mt-5
+      
+      .col-lg-11.sm-2         
+          
         .bloque-texto-g.color-secundario.p-4.mb-4
-          .row.justify-content-center
-            
+          .row.justify-content-center            
             .col-lg-7
               p El desarrollo de un proceso investigativo es fundamental para el mantenimiento, sostenimiento y crecimiento de las organizaciones, no obstante, este tiene unos pasos y características específicas, las cuales se deben tener presente para la obtención de buenos resultados. La aplicación de instrumentos para la recolección es vital para el desarrollo investigativo, por lo que requiere que se desarrolle de forma adecuada siguiendo las instrucciones o normas infundadas por la organización y presaberes establecidos.
 
             .col-lg-2
-              figure
-                img(src='@/assets/curso/temas/Introduccion/img3.png').imagen-deco  
-          
+        figure
+          img(src='@/assets/curso/temas/Introduccion/img3.png').imgdimensioncaj.imagen-decora
+
+              
 
 
 
