@@ -29,19 +29,7 @@
         figure
           img(src='@/assets/curso/temas/Introduccion/img3.png').imgdimensioncaj.imagen-decora
 
-              
-
-
-
-
-
-
-
-
-
-
-
-  
+               
 
     .row.mt-4
       .col-5.col-lg-2        

@@ -26,12 +26,12 @@
         .bloque-texto-f.color-bloque-texto.mt-5
             .bloque-texto-f__texto
               .row.display-flex.justify-content-center
-                .col-lg-9.mb-3     
-                  p.mt-4 De acuerdo con el desarrollo investigativo llevado a cabo por cualquier institución o entidad, es necesario resaltar la importancia que se tienen en cuanto al enfoque y clasificación de la información a recolectar, ya que según el tipo de investigación y objetivo de la misma se deberá validar los instrumentos para la recopilación de datos.
+                .col-lg-9.mb-3    
+                  p.mt-5 De acuerdo con el desarrollo investigativo llevado a cabo por cualquier institución o entidad, es necesario resaltar la importancia que se tienen en cuanto al enfoque y clasificación de la información a recolectar, ya que según el tipo de investigación y objetivo de la misma se deberá validar los instrumentos para la recopilación de datos.
                     
                   .col-lg-9
                     .row.display-flex
-                      .col-2
+                      .col-2.mt-4
                         img(src='@/assets/curso/temas/Tema1/img3.svg')  
                       .col-10.p-3   
                         p El proceso de ‘verificación de los instrumentos para la recolección de la información’ consiste en inspeccionar las preguntas del estudio investigativo, esto con el fin de lograr identificar las posibles fallas o mejoras que estas posean, de igual forma se plantea conocer que todas las preguntas sean pertinentes, se encuentren en el orden adecuado y además que sean suficientes con el proceso investigativo. (Hincapié y Rincón, 2002)  
@@ -53,7 +53,7 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/temas/Tema1/img7.png')
-              .bg--img_03
+              
               .tarjeta.color-acento-contenido.p-4(x="97%" y="10%" numero="+" style='border-radius: 10px; background-color: #5C22C3')
                 p.mb-0 Este es el último paso primordial para el desarrollo del proceso investigativo, en donde se deberá realizar una revisión tanto de ortografía, redacción y organización, para lograr los objetivos de las entidades investigativas.  
 
@@ -97,12 +97,23 @@
     p El instructivo deberá dar a conocer el paso a paso para el desarrollo del proceso investigativo, es por este motivo que se recomiendan una serie de elementos como lo son: 
                 
     
-      .row.justify-content-center.mb-4
-        .col-lg-4
+      .row.justify-content-around.align-items-center.mt-5.mb-5
+        .col-lg-3.mb-3
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/Tema1/Acordeon.png", alt="alt").imagen-deco
         .col-lg-8
           AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--amarillaColor")
+            
+            .row(titulo="Establecer una breve introducción")
+              .col-12
+                p.mb-0 En esta se especifican las características que se incluyen dentro del instructivo, se deberá dejar en claro el objetivo del proceso investigativo y la importancia de realizar una buena función, para la obtención de resultados óptimos.
+
+            .row(titulo="Enumerar los pasos")
+              .col-12
+                p.mb-0 Los elementos instructivos deben ir numerados, esto facilitara al lector comprender el paso a paso a seguir para el desarrollo de determinada actividad.
+
+            
+            
             
             .row(titulo="Utilizar lenguaje sencillo y directo")
               .col-12
@@ -141,14 +152,15 @@
       .col-lg-9.position-relative
         h3.mb-4.text-center.txt--purpura  
         .avatar
+        
           figure
-            img(src="@/assets/curso/temas/Tema2/img11.png", alt="alt").img250
+          img(src="@/assets/curso/temas/Tema2/img11.png", alt="alt").img250
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/temas/Tema2/img12.png", alt="alt").img100
-            .col
+            .col-lg-8
               h5 Cartas de materiales, insumos, colores, texturas o similares 
               p De acuerdo con la pregunta y tipo de la misma, se podrán requerir algunas cartas de elementos específicos para una mejor comprensión por parte del encuestado. 
         .crd.crd--avatarHorizontal.py-4
@@ -156,7 +168,7 @@
             .col-auto
               figure
                 img(src="@/assets/curso/temas/Tema1/img8.png", alt="alt").img100
-            .col
+            .col-lg-8
               h5 Imágenes 
               p Según el tipo de resultado a obtener, si se es necesario, los encuestadores deberán suministrar imágenes o gráficos relevantes para el desarrollo de las preguntas, un ejemplo de esto es la selección de un logo o la muestra de determinada tipología de prenda de vestir.
         .crd.crd--avatarHorizontal.crd--last.py-4
@@ -164,7 +176,7 @@
             .col-auto
               figure
                 img(src="@/assets/curso/temas/Tema1/img9.png", alt="alt").img100
-            .col
+            .col-lg-7
               h5 Elementos de toma de apuntes o bosquejos 
               p Teniendo en cuenta que, si dentro del proceso investigativo se encuentra una pregunta que requiera que el encuestado realice algún tipo de bosquejo, suma o apunte, se recomienda incluir elementos como lápices y hojas en blanco. Por otro lado, cabe resaltar que los encuestadores también podrán hacer uso de este tipo de elementos ya que también podrán requerir de tomar apuntes específicos durante el proceso.  
 
@@ -174,7 +186,7 @@
             .col-auto
               figure
                 img(src="@/assets/curso/temas/Tema1/img10.png", alt="alt").img100
-            .col
+            .col-lg-7
               h5 Cámara y grabadora de audio  
               p Estas son exclusivamente del uso del encuestador, sin embargo, es importante aclarar que este tipo de elementos solo podrán ser usados de acuerdo a las políticas de la empresa y el consentimiento de las personas encuestadas, es por eso que es necesario tener un permiso previo para su utilización dentro del proceso investigativo.
         

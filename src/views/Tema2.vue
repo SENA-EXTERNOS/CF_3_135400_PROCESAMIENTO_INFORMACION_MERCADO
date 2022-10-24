@@ -70,7 +70,14 @@
               .col-12
                 p.mb-0 El procesamiento y análisis de datos se puede desarrollar de manera digital, este es uno de los beneficios que ofrecen las aplicaciones online de procesos de investigación, no obstante, se recomienda una posterior revisión de dicha información ya que esta puede variar y contener errores.  
     
-    
+
+
+
+
+
+      
+
+
         separador
 
     #t_2_2
@@ -98,7 +105,7 @@
 
     .row.justify-content-center.align-items-start.mt-5      
         .col-lg-3
-            img(src='@/assets/curso/temas/Tema2/img5.png' )                   
+            img(src='@/assets/curso/temas/Tema2/img5.png' ).imagen-deco                   
         .col-lg-7
           p.mt-3 Los datos suministrados por el encuestado pueden tener un porcentaje mayor de fiabilidad, ya que se encuentra en un ambiente controlado, bajo características específicas y en conjunto con un orientador (encuestador) que le podrá brindar asesoría en cualquier momento que se requiera.
           p.mt-3 Al igual que en la aplicación de recolección de datos online, la manera presencial no garantiza que todas las personas suministren en su totalidad información específica, no obstante, se podrá obtener un referente sobre la misma, es decir un aproximado sobre lo que piensa y opina la persona encuestada. Por otro lado, es importante garantizar que el tratamiento de los datos sea desarrollado de la mejor manera, ya que esto valida el derecho de las personas en la privacidad de su información.
