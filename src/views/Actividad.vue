@@ -15,7 +15,14 @@
           
         p.mb-4 #[b Objetivo] Apreciado aprendiz, a continuación encontrará una actividad didáctica para afianzar los conceptos y aprendizajes del componente de formación.
  
-        p.mt-4 Esta es una actividad de “Arrastrar y Soltar”, donde encontrará 2 columnas, la “Columna A” - presenta las definiciones vistas a lo largo del componente y la “Columna B” entrega los posibles conceptos. Asocie las definiciones con los conceptos correspondientes. Seleccione de la Columna B, arrastre y suelte la respuesta relacionada con las definiciones dadas en la Columna A. 
+        p.mt-4 Esta es una actividad de “Arrastrar y Soltar”, donde encontrará 2 columnas, la 
+          b “Columna A” 
+          | - presenta las definiciones vistas a lo largo del componente y la 
+          b “Columna B” 
+          | entrega los posibles conceptos. Asocie las definiciones con los conceptos correspondientes. Seleccione de la 
+          b Columna B, 
+          | arrastre y suelte la respuesta relacionada con las definiciones dadas en la 
+          b Columna A. 
 
         p ¡Adelante y mucho ánimo!
 

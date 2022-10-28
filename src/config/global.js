@@ -85,7 +85,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Aplicación online',
+            titulo: 'Aplicación <em>online</em>',
             hash: 't_2_1',
           },
 
@@ -155,7 +155,7 @@ export default {
     {
       tema: 'Técnicas de verificación',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Técnicas de verificación.',
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). <em>Técnicas de verificación.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=g2lIg-BIScc&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -163,7 +163,7 @@ export default {
     {
       tema: 'Organización de los datos recopilados',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). Organización de los datos recopilados. ',
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Organización de los datos recopilados. </em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=vvjV66aA93Y&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -172,7 +172,7 @@ export default {
     {
       tema: 'Recolección de la Información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2020). Recolección de la Información.',
+        'Ecosistema de Recursos Educativos Digitales SENA (2020). <em>Recolección de la Información.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=D_ltPN5Akvo&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -181,7 +181,7 @@ export default {
     {
       tema: 'Lista de chequeo',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Lista de chequeo.',
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). <em>Lista de chequeo.</em>',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=BIruK_ImOK8&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
@@ -190,7 +190,7 @@ export default {
     {
       tema: 'Fuentes y técnicas de recolección de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). Fuentes y técnicas de recolección de la información.',
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Fuentes y técnicas de recolección de la información.</em>',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=xhTb3dSFR2M',
     },
@@ -250,19 +250,19 @@ export default {
 
     {
       referencia:
-        'Ebook. Hoyer, W. D., Pieters, R., Maclnnis, D. J. (2018). Comportamiento del consumidor. Cengage Learning.',
+        'Ebook. Hoyer, W. D., Pieters, R., Maclnnis, D. J. (2018). <em>Comportamiento del consumidor. </em> Cengage Learning.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7493',
     },
 
     {
       referencia:
-        'Ebook. Kerin, R. A., Hartley, S. W. (2019). Marketing. McGraw-Hill.',
+        'Ebook. Kerin, R. A., Hartley, S. W. (2019). Marketing. <em>McGraw-Hill.</em>',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9915',
     },
 
     {
       referencia:
-        'Ebook. Sanabria Araya, F. (2018). Investigación de mercados: un enfoque práctico y descriptivo. Ecoe Ediciones.',
+        'Ebook. Sanabria Araya, F. (2018). Investigación de mercados: <em>un enfoque práctico y descriptivo.</em> Ecoe Ediciones.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7409',
     },
   ],

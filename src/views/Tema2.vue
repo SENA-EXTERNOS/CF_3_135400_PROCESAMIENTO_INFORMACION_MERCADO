@@ -22,14 +22,17 @@
     #t_2_1
 
     .titulo-segundo.color-acento-contenido.mt-2
-      h2 2.1  Aplicación online
+      h2 2.1  Aplicación 
+        i online
 
    
     .row.justify-content-center
       .col-11.col-lg-11     
             .row.display-flex.justify-content-center                
               .col-lg-9
-                p.mt-2 El desarrollo de estrategias de mercado permite el adecuado crecimiento, mantenimiento y sostenimiento de las empresas, por lo que es de vital importancia identificar y definir el verdadero objetivo de esta. Las estrategias de mercadeo se acomodan de acuerdo con el objetivo de la empresa y los productos que ofrecen.
+                p.mt-2 Gracias a los diferentes avances tecnológicos, las organizaciones han podido trasladar sus investigaciones de un entorno presencial a un ambiente virtual, donde se presentan mayores beneficios para los mismos. No obstante, este tipo de aplicaciones 
+                  i #[b online ]
+                  | presentan pasos o características muy puntuales:
               .col-lg-1
                 img(src='@/assets/curso/temas/Tema2/img2.svg').imgmedidas
 
@@ -52,7 +55,9 @@
 
             .row(titulo="Tiempo para la recolección de información")
               .col-12
-                p.mb-0 Se debe indicar el tiempo suficiente para la recolección de información, encontrar un punto medio para la implementación de las herramientas de estudio; lo anterior podría indicar un costo superior en el desarrollo del proceso investigativo, ya que muchas plataformas o paneles online cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado pude arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la formade pensar y actuar de las personas. 
+                p.mb-0 Se debe indicar el tiempo suficiente para la recolección de información, encontrar un punto medio para la implementación de las herramientas de estudio; lo anterior podría indicar un costo superior en el desarrollo del proceso investigativo, ya que muchas plataformas o paneles 
+                  i online 
+                  | cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado pude arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la formade pensar y actuar de las personas. 
              
             .row(titulo="Adaptabilidad de los instrumentos de investigación")
               .col-12
@@ -60,7 +65,9 @@
     
             .row(titulo="Privacidad de los datos")
               .col-12
-                p.mb-0 La privacidad de los datos es fundamental, y en el mundo online esto también tiene mucha relevancia, por lo que alguna información puede que no esté disponible o no sea suministrada por parte del público objetivo.
+                p.mb-0 La privacidad de los datos es fundamental, y en el mundo 
+                  i online 
+                  | esto también tiene mucha relevancia, por lo que alguna información puede que no esté disponible o no sea suministrada por parte del público objetivo.
     
             .row(titulo="Datos no fiables")
               .col-12
@@ -68,7 +75,9 @@
 
             .row(titulo="El procesamiento y análisis de datos digital")
               .col-12
-                p.mb-0 El procesamiento y análisis de datos se puede desarrollar de manera digital, este es uno de los beneficios que ofrecen las aplicaciones online de procesos de investigación, no obstante, se recomienda una posterior revisión de dicha información ya que esta puede variar y contener errores.  
+                p.mb-0 El procesamiento y análisis de datos se puede desarrollar de manera digital, este es uno de los beneficios que ofrecen las aplicaciones 
+                  i online
+                  | de procesos de investigación, no obstante, se recomienda una posterior revisión de dicha información ya que esta puede variar y contener errores.  
     
 
 
@@ -88,7 +97,9 @@
     .row.justify-content-around.align-items-center
       .col-lg-7.col-sm-16
         p La aplicación de los instrumentos de recolección de información de manera presencial es uno de los métodos más clásicos que existe en cuanto a lo que se refiere el proceso investigativo, no obstante, esto ha ido cambiando conforme los años.
-        p Al igual que en la aplicación de instrumentos de recolección de datos online, las personas que participen en este tipo de procesos buscaran obtener un incentivo a cambio del desarrollo de esta, ya que no es muy fácil que los grupos a encuestar acepten de forma gratuita en la participación de las mismas. No obstante, existen muchas empresas que consiguen el desarrollo de este tipo de investigación con participantes que simplemente deseen contribuir con el mismo proceso investigativo, lo que las empresas pueden agradecer ofreciendo algún tipo de obsequio por su participación.
+        p Al igual que en la aplicación de instrumentos de recolección de datos 
+          i online, 
+          | las personas que participen en este tipo de procesos buscaran obtener un incentivo a cambio del desarrollo de esta, ya que no es muy fácil que los grupos a encuestar acepten de forma gratuita en la participación de las mismas. No obstante, existen muchas empresas que consiguen el desarrollo de este tipo de investigación con participantes que simplemente deseen contribuir con el mismo proceso investigativo, lo que las empresas pueden agradecer ofreciendo algún tipo de obsequio por su participación.
          
       
       .col-lg-4.col-sm-10
@@ -108,7 +119,9 @@
             img(src='@/assets/curso/temas/Tema2/img5.png' ).imagen-deco                   
         .col-lg-7
           p.mt-3 Los datos suministrados por el encuestado pueden tener un porcentaje mayor de fiabilidad, ya que se encuentra en un ambiente controlado, bajo características específicas y en conjunto con un orientador (encuestador) que le podrá brindar asesoría en cualquier momento que se requiera.
-          p.mt-3 Al igual que en la aplicación de recolección de datos online, la manera presencial no garantiza que todas las personas suministren en su totalidad información específica, no obstante, se podrá obtener un referente sobre la misma, es decir un aproximado sobre lo que piensa y opina la persona encuestada. Por otro lado, es importante garantizar que el tratamiento de los datos sea desarrollado de la mejor manera, ya que esto valida el derecho de las personas en la privacidad de su información.
+          p.mt-3 Al igual que en la aplicación de recolección de datos 
+            i online, 
+            | la manera presencial no garantiza que todas las personas suministren en su totalidad información específica, no obstante, se podrá obtener un referente sobre la misma, es decir un aproximado sobre lo que piensa y opina la persona encuestada. Por otro lado, es importante garantizar que el tratamiento de los datos sea desarrollado de la mejor manera, ya que esto valida el derecho de las personas en la privacidad de su información.
 
     p.mt-4 Por último, el procesamiento y análisis de la información puede ser tardía y un poco tediosa, ya que en su mayoría este tipo de aplicaciones de instrumentos de recolección de información, suelen arrojar preguntas tanto cuantitativas como cualitativas lo que genera que se deben establecer mayores puntos a tener en cuenta sobre la información recolectada.
 
@@ -162,20 +175,17 @@
 
 
     .row.justify-content-center.mb-5
-      .col-lg-8
-        TabsA.color-acento-contenido    
-          .tarjeta.colorblue.p-4(titulo="Actitud")
+      .col-lg-8         
+        TabsA.color-acento-contenido                
+          .tarjeta.colorblue.p-4(titulo="<small>Actitud</small>")
             b.mt-3 Actitud
             p.mt-3 Presentar una buena actitud frente a la participación en la aplicación de los instrumentos de recolección, influirá en gran medida en las respuestas a obtener, en dado caso de realizar estudios donde se presenten varias personas, la actitud puede llegar afectar a todos los miembros participantes a este proceso investigativo. 
             
-          .tarjeta.colorblue.p-4(titulo="Veracidad o sinceridad")
+          .tarjeta.colorblue.p-4(titulo="<small>Veracidad o sinceridad</small>")
             b Veracidad o sinceridad
             p.mt-3 Un proceso investigativo exige el desarrollo de respuestas reales y concretas, es por esto que las personas encuestadas deberán contestar de la manera más sincera posible. 
-
-
-
-
-          .tarjeta.colorblue.p-4(titulo="Seguimiento de las indicaciones")
+          
+          .tarjeta.dimensiontarjeta.colorblue.p-4(titulo="<small>Seguimiento de las indicaciones</small>")
             b Seguimiento de las indicaciones
             p.mt-3 Las personas encuestadas tienen el deber de llevar a cabo el seguimiento de indicaciones brindadas por los encuestadores.
 
@@ -183,20 +193,20 @@
 
 
 
-          .tarjeta.colorblue.p-4(titulo="Indagar sobre interrogantes presentados durante el proceso")
+          .tarjeta.colorblue.p-4(titulo="<small>Indagar sobre interrogantes <br>presentados durante el proceso</small>")
             b Indagar sobre interrogantes presentados durante el proceso
             p.mt-3 Si se presentan dudas por parte de los encuestados es necesario que se resuelvan, esto para lograr de forma adecuada todos los objetivos planteados por la organización.
 
-          .tarjeta.colorblue.p-4(titulo="Compromiso")
+          .tarjeta.colorblue.p-4(titulo="<small>Compromiso</small>")
             b Compromiso
             p.mt-3 Independientemente de que se otorgue o no un incentivo por parte de las empresas a los grupos a encuestar, los encuestados deberán mostrar su compromiso frente al desarrollo del instrumento de recolección.
 
-          .tarjeta.colorblue.p-4(titulo="Respeto y empatía")
+          .tarjeta.colorblue.p-4(titulo="<small>Respeto y empatía</small>")
             b Respeto y empatía
             p.mt-3 Estas son necesarias para el desarrollo de la recolección de información, tanto por los encuestados como por parte de los encuestadores. 
      
      
-      .col-8.col-lg-4
+      .col-lg-6.col-xl-4 
         figure
           img.l.my-3(src="@/assets/curso/temas/Tema2/img10.png", alt="alt")   
 

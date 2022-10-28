@@ -154,6 +154,8 @@
         .avatar
         
           figure
+          
+          
           img(src="@/assets/curso/temas/Tema2/img11.png", alt="alt").img250
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center

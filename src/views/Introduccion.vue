@@ -13,7 +13,9 @@
         .col-lg-1.my3
             img.img-a.img-t(src='@/assets/curso/temas/Introduccion/img1.svg' width='85' height='94')                        
         .col-lg-11
-          p.mb-0 Bienvenido al componente formativo ‘Aplicación de instrumentos para recolectar información’ del programa ‘Procesamiento de información de mercados’, este espacio estará enfocado en el proceso formativo de acuerdo con la competencia de aprendizaje orientada en ‘encuestar personas según la técnica de recolección y manual de encuestador’, donde se podrá conocer las condiciones, términos y pasos, para la verificación y aplicación de instrumentos de recolección de información, enfocado en la metodología de aplicación de instructivos, elementos de apoyo y el plan de recolección de datos. Además, se mostrarán las diferentes aplicaciones de estos procesos de forma online y presencial, las rutas de recolección y los protocolos de diligenciamiento en la recopilación de información. 
+          p.mb-0 Bienvenido al componente formativo ‘Aplicación de instrumentos para recolectar información’ del programa ‘Procesamiento de información de mercados’, este espacio estará enfocado en el proceso formativo de acuerdo con la competencia de aprendizaje orientada en ‘encuestar personas según la técnica de recolección y manual de encuestador’, donde se podrá conocer las condiciones, términos y pasos, para la verificación y aplicación de instrumentos de recolección de información, enfocado en la metodología de aplicación de instructivos, elementos de apoyo y el plan de recolección de datos. Además, se mostrarán las diferentes aplicaciones de estos procesos de forma 
+            i online 
+            | y presencial, las rutas de recolección y los protocolos de diligenciamiento en la recopilación de información. 
 
     
     .row.justify-content-center.mt-5
