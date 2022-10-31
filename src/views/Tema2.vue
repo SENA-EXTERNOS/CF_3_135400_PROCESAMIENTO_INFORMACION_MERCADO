@@ -77,7 +77,7 @@
               .col-12
                 p.mb-0 El procesamiento y análisis de datos se puede desarrollar de manera digital, este es uno de los beneficios que ofrecen las aplicaciones 
                   i online
-                  | de procesos de investigación, no obstante, se recomienda una posterior revisión de dicha información ya que esta puede variar y contener errores.  
+                  |  de procesos de investigación, no obstante, se recomienda una posterior revisión de dicha información ya que esta puede variar y contener errores.  
     
 
 
