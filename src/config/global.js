@@ -66,12 +66,6 @@ export default {
             titulo: 'Elementos de apoyo',
             hash: 't_1_2',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Plan de recolección',
-            hash: 't_1_3',
-          },
         ],
       },
 
@@ -94,19 +88,6 @@ export default {
             numero: '2.2',
             titulo: 'Aplicación presencial',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Rutas de recolección',
-            hash: 't_2_3',
-          },
-
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Protocolos de diligenciamiento',
-            hash: 't_2_4',
           },
         ],
       },
@@ -153,46 +134,34 @@ export default {
   },
   complementario: [
     {
-      tema: 'Técnicas de verificación',
+      tema: 'Verificación de instrumentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). <em>Técnicas de verificación.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Técnicas de verificación<i>.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=g2lIg-BIScc&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+      link: 'https://youtu.be/g2lIg-BIScc',
     },
     {
-      tema: 'Organización de los datos recopilados',
+      tema: 'Instructivos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Organización de los datos recopilados. </em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <i>Organización de los datos recopilados<i>.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=vvjV66aA93Y&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+      link: 'https://youtu.be/vvjV66aA93Y',
     },
 
     {
-      tema: 'Recolección de la Información',
+      tema: 'Elementos de apoyo',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2020). <em>Recolección de la Información.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2020). <i>Recolección de la Información<i>.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=D_ltPN5Akvo&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+      link: 'https://youtu.be/D_ltPN5Akvo',
     },
 
     {
-      tema: 'Lista de chequeo',
+      tema: 'Aplicación de instrumentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). <em>Lista de chequeo.</em>',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). <i>Lista de chequeo<i>.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=BIruK_ImOK8&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
-    },
-
-    {
-      tema: 'Fuentes y técnicas de recolección de la información',
-      referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Fuentes y técnicas de recolección de la información.</em>',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=xhTb3dSFR2M',
+      link: 'https://youtu.be/BIruK_ImOK8',
     },
   ],
   glosario: [
@@ -244,25 +213,25 @@ export default {
   referencias: [
     {
       referencia:
-        'Ebook. Grasso, L. (2006). Encuestas: elementos para su diseño y Análisis. Encuentro Grupo Editor',
+        'Grasso, L. (2006). <i>Encuestas: elementos para su diseño y Análisis</i>. Encuentro Grupo Editor',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=2718 ',
     },
 
     {
       referencia:
-        'Ebook. Hoyer, W. D., Pieters, R., Maclnnis, D. J. (2018). <em>Comportamiento del consumidor. </em> Cengage Learning.',
+        'Hoyer, W. D., Pieters, R. & Maclnnis, D. J. (2018). <em>Comportamiento del consumidor. </em> Cengage Learning.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7493',
     },
 
     {
       referencia:
-        'Ebook. Kerin, R. A., Hartley, S. W. (2019). Marketing. <em>McGraw-Hill.</em>',
+        'Kerin, R. A. y Hartley, S. W. (2019). <em>Marketing</em>. McGraw-Hill.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9915',
     },
 
     {
       referencia:
-        'Ebook. Sanabria Araya, F. (2018). Investigación de mercados: <em>un enfoque práctico y descriptivo.</em> Ecoe Ediciones.',
+        'Sanabria Araya, F. (2018). <em>Investigación de mercados: un enfoque práctico y descriptivo.</em> Ecoe Ediciones.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7409',
     },
   ],

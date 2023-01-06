@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema2/img1.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p(data-aos="fade-down").mb-0 La recolección de información es un paso esencial para el desarrollo de cualquier proceso investigativo, es por esto que es necesario que se seleccione y aplique de forma adecuada los instrumentos de recolección de datos, ya que no todos los instrumentos de recolección de datos pueden ser utilizados en los diferentes tipos de investigaciones, todo esto dependerá del objetivo del estudio investigativo y los recursos que disponga la empresa. (Tarquino y Lozano, 1988)    
+            p(data-aos="fade-down").mb-0 La recolección de información es un paso esencial para el desarrollo de cualquier proceso investigativo, es por esto que es necesario que se seleccione y aplique de forma adecuada los instrumentos de recolección de datos, ya que no todos los instrumentos de recolección de datos pueden ser utilizados en los diferentes tipos de investigaciones, todo esto dependerá del objetivo del estudio investigativo y los recursos que disponga la empresa. 
 
         separador
 
@@ -125,50 +125,37 @@
 
     p.mt-4 Por último, el procesamiento y análisis de la información puede ser tardía y un poco tediosa, ya que en su mayoría este tipo de aplicaciones de instrumentos de recolección de información, suelen arrojar preguntas tanto cuantitativas como cualitativas lo que genera que se deben establecer mayores puntos a tener en cuenta sobre la información recolectada.
 
-
-        separador
-
-    #t_2_3
-
-    .titulo-segundo.color-acento-contenido.mt-2
-      h2 2.3 Rutas de recolección
+    h4.my-5 Rutas de recolección
     
-    .row.justify-content-center.align-items-start           
-        .col-lg-1
-            img(src='@/assets/curso/temas/Tema2/img6.png').dimensionimg2                     
-        .col-lg-9
-          p.mt-3 La forma en cómo se deberá recolectar la información dependerá únicamente de las directrices que tengan las organizaciones. Las rutas de recolección de información se refieren al tipo de orden en el que serán encuestados los grupos a estudiar, es decir, la empresa deberá ordenar la forma en cómo y cuándo serán encuestadas las personas, un ejemplo de esto es encuestar a un grupo de personas que se encuentren en la ciudad de Medellín, luego a las personas de Bogotá y por último a un grupo en Cali; todo lo anterior dependerá de las estrategias planteadas por la organización. De acuerdo con lo anterior, las empresas son las únicas que podrán establecer el tipo de ruta a llevar a cabo para la aplicación de Instrumentos, sin embargo, estas pueden tener en cuenta factores específicos como: 
-  
+    .row.justify-content-center.align-items-center.mb-5           
+        .col-auto
+            img(src='@/assets/curso/temas/Tema2/img6.png')                 
+        .col-10
+          p.mt-3 La forma en cómo se deberá recolectar la información dependerá únicamente de las directrices que tengan las organizaciones; las rutas de recolección de información se refieren al tipo de orden en el que serán encuestados los grupos a estudiar, es decir, la empresa deberá ordenar la forma en cómo y cuándo serán encuestadas las personas, un ejemplo de esto es encuestar a un grupo de personas que se encuentren en la ciudad de Medellín, luego a las personas de Bogotá y por último a un grupo en Cali; todo lo anterior dependerá de las estrategias planteadas por la organización. De acuerdo con lo anterior, las empresas son las únicas que podrán establecer el tipo de ruta a llevar a cabo para la aplicación de Instrumentos, sin embargo, estas pueden tener en cuenta factores específicos como: 
      
 
     LineaTiempoD.color-primario    
-      .row(numero="1" titulo="Distancia")
-        .col-lg-1
-          img(src='@/assets/curso/temas/Tema2/img7.png').imgtamanio            
-        .col-lg-9
-          p.text-small Representa la ubicación donde se encuentran los grupos a encuestar, por lo que es importante plantear las rutas más viables para el desarrollo de estos procedimientos de recolección.       
+      .row.justify-content-center.align-items-center(numero="1" titulo="Distancia")
+        .col-auto
+          img(src='@/assets/curso/temas/Tema2/img7.png')            
+        .col-11
+          p.mb-0 Representa la ubicación donde se encuentran los grupos a encuestar, por lo que es importante plantear las rutas más viables para el desarrollo de estos procedimientos de recolección.       
 
-      .row(numero="2" titulo="Tiempo")
-        .col-md-1
-          img(src='@/assets/curso/temas/Tema2/img8.png' ).imgtamanio
+      .row.justify-content-center.align-items-center(numero="2" titulo="Tiempo")
+        .col-auto
+          img(src='@/assets/curso/temas/Tema2/img8.png' )
             
-        .col-lg-9
-          p.text-small Este podrá afectar las decisiones en las rutas que establezcan las organizaciones, un ejemplo de esto será conocer o desarrollar una investigación con base al tiempo transcurrido de un momento especifico a otro.  
+        .col-11
+          p.mb-0 Este podrá afectar las decisiones en las rutas que establezcan las organizaciones, un ejemplo de esto será conocer o desarrollar una investigación con base al tiempo transcurrido de un momento especifico a otro.  
       
-      .row(numero="3" titulo="Recursos")
-        .col-md-1
-          img(src='@/assets/curso/temas/Tema2/img9.png' ).imgtamanio
+      .row.justify-content-center.align-items-center(numero="3" titulo="Recursos")
+        .col-auto
+          img(src='@/assets/curso/temas/Tema2/img9.png' )
             
-        .col-lg-9
-          p.text-small A pesar de que los recursos como materiales y herramientas deben fijarse previamente por las empresas, puede que estos se vean afectados en la aplicación de los instrumentos de recolección, encontrándose con recursos limitados que solo les permita desarrollar la investigación en lapsos de tiempo específicos.  
+        .col-11
+          p.mb-0 A pesar de que los recursos como materiales y herramientas deben fijarse previamente por las empresas, puede que estos se vean afectados en la aplicación de los instrumentos de recolección, encontrándose con recursos limitados que solo les permita desarrollar la investigación en lapsos de tiempo específicos.  
        
-   
-    separador
-
-    #t_2_4
-
-    .titulo-segundo.color-acento-contenido.mt-2
-      h2 2.4 Protocolos de diligenciamiento
+    h4.my-5 Protocolos de diligenciamiento
 
     
     p De acuerdo con las directrices desarrolladas desde el inicio y selección del instrumento de recolección de información, ‘el grupo a encuestar también deberá seguir algunas normas’ específicas durante el diligenciamiento de los instrumentos de recopilación de datos, algunos de estos solo se basarán en comportamientos y otros en reglas planteadas dentro del proceso investigativo. 

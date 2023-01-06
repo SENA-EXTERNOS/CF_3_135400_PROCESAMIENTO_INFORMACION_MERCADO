@@ -12,34 +12,31 @@
         .col-lg-2
             img(src='@/assets/curso/temas/Tema1/img1.svg' ).imagen-deco                     
         .col-lg-10
-          p.mt-3 La verificación de los instrumentos de recolección de información, permite desarrollar un adecuado proceso investigativo, por lo que toma una función relevante dentro de lo que a este procedimiento se refiere. A pesar de no existir una ruta específica para la verificación de esta información, ya que esto puede determinarse de acuerdo a las directrices de las empresas, es importante destacar que existen algunos pasos que pueden ser aplicados a cualquier tipo de industria dentro del procesos de investigación y específicamente en la aplicabilidad de recolección de datos.
-
+          p.mt-3 La verificación de los instrumentos de recolección de información, permite desarrollar un adecuado proceso investigativo, por lo que toma una función relevante dentro de lo que a este procedimiento se refiere. A pesar de no existir una ruta específica para la verificación de esta información, ya que esto puede determinarse de acuerdo a las directrices de las empresas, es importante destacar que existen algunos pasos que pueden ser aplicados a cualquier tipo de industria dentro del procesos de investigación y específicamente en la aplicabilidad de recolección de datos. 
+          p En el siguiente vídeo podrá ver estrategias de verificación de instrumentos: 
     .row.mt-4
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption VIDEO
-
-
+          
     .row.justify-content-center
       .col-11.col-lg-11
         .bloque-texto-f.color-bloque-texto.mt-5
             .bloque-texto-f__texto
               .row.display-flex.justify-content-center
                 .col-lg-9.mb-3    
-                  p.mt-5 De acuerdo con el desarrollo investigativo llevado a cabo por cualquier institución o entidad, es necesario resaltar la importancia que se tienen en cuanto al enfoque y clasificación de la información a recolectar, ya que según el tipo de investigación y objetivo de la misma se deberá validar los instrumentos para la recopilación de datos.
+                  p.mt-5 Continuando se debe tener en cuenta que el proceso de ‘verificación de los instrumentos para la recolección de la información’ consiste en inspeccionar las preguntas del estudio investigativo, esto con el fin de lograr identificar las posibles fallas o mejoras que estas posean, de igual forma se plantea conocer que todas las preguntas sean pertinentes, se encuentren en el orden adecuado y además que sean suficientes con el proceso investigativo. 
                     
                   .col-lg-9
-                    .row.display-flex
+                    .row.display-flex.align-items-center.mb-3
                       .col-2.mt-4
                         img(src='@/assets/curso/temas/Tema1/img3.svg')  
                       .col-10.p-3   
-                        p El proceso de ‘verificación de los instrumentos para la recolección de la información’ consiste en inspeccionar las preguntas del estudio investigativo, esto con el fin de lograr identificar las posibles fallas o mejoras que estas posean, de igual forma se plantea conocer que todas las preguntas sean pertinentes, se encuentren en el orden adecuado y además que sean suficientes con el proceso investigativo. (Hincapié y Rincón, 2002)  
+                        p De acuerdo con el desarrollo investigativo llevado a cabo por cualquier institución o entidad, es necesario resaltar la importancia que se tienen en cuanto al enfoque y clasificación de la información a recolectar, ya que según el tipo de investigación y objetivo de la misma se deberá validar los instrumentos para la recopilación de datos.
                        
                   .col-lg-9
-                    p.mt-2 No existe un paso a paso especifico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación:   
+                    p.mt-2 Tal como se ha mencionado, no existe un paso a paso especifico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación: 
 
-              
                 .col-9.col-lg-3
                   figure
                     img(src='@/assets/curso/temas/Tema1/img2.svg' width='188' height='336')
@@ -75,14 +72,11 @@
 
               .tarjeta.color-acento-contenido.p-4(x="97%" y="79%" numero="+" style='border-radius: 10px; background-color: #5C22C3')
               
-                p.mb-0 este paso va muy de la mano con el anterior, sin embargo, se enfoca en no hacer uso de tecnicismos, modismos o preguntas redundantes, esto quiere decir que cualquier persona pueda identificar de manera adecuada las preguntas dentro del instrumento investigativo. Otra opción que se puede presentar es dar una contextualización previa al planteamiento de las preguntas, con el fin de que todos compartan los mismos conocimientos.
+                p.mb-0 Este paso va muy de la mano con el anterior, sin embargo, se enfoca en no hacer uso de tecnicismos, modismos o preguntas redundantes, esto quiere decir que cualquier persona pueda identificar de manera adecuada las preguntas dentro del instrumento investigativo. Otra opción que se puede presentar es dar una contextualización previa al planteamiento de las preguntas, con el fin de que todos compartan los mismos conocimientos.
 
               .tarjeta.color-acento-contenido.p-4(x="97%" y="90%" numero="+" style='border-radius: 10px; background-color: #5C22C3')
                
                 p.mb-0 Este punto puede variar de acuerdo con el tipo de investigación que se desea realizar, sin embargo, siempre será de gran relevancia elaborar una introducción a la actividad que se va a llevar a cabo, de igual forma dentro de esta misma se podrán definir las reglas o normas que el encuestado deberá tener presente antes, durante y después del proceso investigativo. También se podrá incorporar información relevante sobre el tratamiento de los datos suministrados por los encuestados.
-
-
-                    
 
     Separador
 
@@ -92,7 +86,7 @@
       h2 1.1 Instructivos
 
 
-    p Para el desarrollo de una actividad de investigación es necesario elaborar instructivos, los cuales son ‘herramientas que comunican’ los diferentes factores primordiales para llevar a cabo un adecuado proceso, por lo que en un entorno investigativo toman un papel fundamental, para así poder disminuir en gran medida la cantidad de fallas dentro del proceso mencionado.
+    p La creación de instructivos dentro de la investigación es necesaria, los cuales son ‘herramientas que comunican’ los diferentes factores primordiales para llevar a cabo un adecuado proceso, por lo que en un entorno investigativo toman un papel fundamental, para así poder disminuir en gran medida la cantidad de fallas dentro del proceso mencionado. 
  
     p El instructivo deberá dar a conocer el paso a paso para el desarrollo del proceso investigativo, es por este motivo que se recomiendan una serie de elementos como lo son: 
                 
@@ -146,7 +140,7 @@
         .col-lg-1
             img(src='@/assets/curso/temas/Tema1/img4.png' width='84' height='111')                        
         .col-lg-11
-          p.mb-0 Al aplicar los instrumentos para la recolección de información se debe validar la necesidad de hacer uso de otro tipo de herramienta para el desarrollo de estos instrumentos, por lo que, de acuerdo a las políticas y directrices de la empresa, se deberán plantear o establecer los elementos necesarios para la fácil comprensión y manejo de la recolección de información de forma adecuada y pertinente. Algunas de las herramientas o elementos de apoyo utilizados durante la recolección de información son: 
+          p.mb-0 Se debe tener en cuenta que, al aplicar los instrumentos para la recolección de información, se debe validar la necesidad de hacer uso de otro tipo de herramienta para el desarrollo de estos instrumentos, por lo que, de acuerdo a las políticas y directrices de la empresa, se deberán plantear o establecer los elementos necesarios para la fácil comprensión y manejo de la recolección de información de forma adecuada y pertinente. Algunas de las herramientas o elementos de apoyo utilizados durante la recolección de información son: 
 
     .row.justify-content-center.mb-5
       .col-lg-9.position-relative
@@ -156,7 +150,7 @@
           figure
           
           
-          img(src="@/assets/curso/temas/Tema2/img11.png", alt="alt").img250
+          img(src="@/assets/curso/temas/Tema2/img11.svg", alt="alt").img250
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
             .col-auto
@@ -180,7 +174,7 @@
                 img(src="@/assets/curso/temas/Tema1/img9.png", alt="alt").img100
             .col-lg-7
               h5 Elementos de toma de apuntes o bosquejos 
-              p Teniendo en cuenta que, si dentro del proceso investigativo se encuentra una pregunta que requiera que el encuestado realice algún tipo de bosquejo, suma o apunte, se recomienda incluir elementos como lápices y hojas en blanco. Por otro lado, cabe resaltar que los encuestadores también podrán hacer uso de este tipo de elementos ya que también podrán requerir de tomar apuntes específicos durante el proceso.  
+              p Teniendo en cuenta que, si dentro del proceso investigativo se encuentra una pregunta que requiera que el encuestado realice algún tipo de bosquejo, suma o apunte, se recomienda incluir elementos como lápices y hojas en blanco. Por otro lado, cabe resaltar que los encuestadores también podrán hacer uso de este tipo de elementos, ya que también podrán requerir de tomar apuntes específicos durante el proceso. 
 
        
         .crd.crd--avatarHorizontal.py-4
@@ -192,17 +186,9 @@
               h5 Cámara y grabadora de audio  
               p Estas son exclusivamente del uso del encuestador, sin embargo, es importante aclarar que este tipo de elementos solo podrán ser usados de acuerdo a las políticas de la empresa y el consentimiento de las personas encuestadas, es por eso que es necesario tener un permiso previo para su utilización dentro del proceso investigativo.
         
+    h4.mb-5 Plan de recolección 
 
-
-    Separador 
-
-    #t_1_3
-
-    .titulo-segundo.color-secundario.mb-5        
-      h2 1.3 	Plan de recolección 
-
-    p El plan de recolección de datos funciona como el paso a paso que se debe seguir en uno de los momentos primordiales para la recolección de información pertinente para cualquier estudio. Dentro de los principales pasos se encuentran: 
-
+    p Sin duda el plan de recolección de datos funciona como el paso a paso, que se debe seguir en uno de los momentos primordiales para la recolección de información pertinente para cualquier estudio. Dentro de los principales pasos se encuentran:
 
     
     .tarjeta.p-5(titulo="Ejemplo - 1")

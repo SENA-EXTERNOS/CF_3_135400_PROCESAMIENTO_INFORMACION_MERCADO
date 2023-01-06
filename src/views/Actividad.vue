@@ -2,32 +2,17 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-segundo.color-secundario
-      h2 Arrastrar y soltar
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/curso/Actividad.png", alt="Texto que describa la imagen")
+            img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        
-          
-        p.mb-4 #[b Objetivo] Apreciado aprendiz, a continuación encontrará una actividad didáctica para afianzar los conceptos y aprendizajes del componente de formación.
- 
-        p.mt-4 Esta es una actividad de “Arrastrar y Soltar”, donde encontrará 2 columnas, la 
-          b “Columna A” 
-          | - presenta las definiciones vistas a lo largo del componente y la 
-          b “Columna B” 
-          | entrega los posibles conceptos. Asocie las definiciones con los conceptos correspondientes. Seleccione de la 
-          b Columna B, 
-          | arrastre y suelte la respuesta relacionada con las definiciones dadas en la 
-          b Columna A. 
-
-        p ¡Adelante y mucho ánimo!
-
-
-        
+        .titulo-segundo
+          h2 Aplicación de instrumentos para recolectar información
+        p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

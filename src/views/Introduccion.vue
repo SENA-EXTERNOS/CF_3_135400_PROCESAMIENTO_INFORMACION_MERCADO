@@ -13,9 +13,7 @@
         .col-lg-1.my3
             img.img-a.img-t(src='@/assets/curso/temas/Introduccion/img1.svg' width='85' height='94')                        
         .col-lg-11
-          p.mb-0 Bienvenido al componente formativo ‘Aplicación de instrumentos para recolectar información’ del programa ‘Procesamiento de información de mercados’, este espacio estará enfocado en el proceso formativo de acuerdo con la competencia de aprendizaje orientada en ‘encuestar personas según la técnica de recolección y manual de encuestador’, donde se podrá conocer las condiciones, términos y pasos, para la verificación y aplicación de instrumentos de recolección de información, enfocado en la metodología de aplicación de instructivos, elementos de apoyo y el plan de recolección de datos. Además, se mostrarán las diferentes aplicaciones de estos procesos de forma 
-            i online 
-            | y presencial, las rutas de recolección y los protocolos de diligenciamiento en la recopilación de información. 
+          p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, se enfocará en el proceso formativo de acuerdo con la competencia de aprendizaje orientada en ‘encuestar personas según la técnica de recolección y manual de encuestador’, donde se podrá conocer las condiciones, términos y pasos, para la verificación y aplicación de instrumentos de recolección de información, enfocado en la metodología de aplicación de instructivos, elementos de apoyo y el plan de recolección de datos. Además, se mostrarán las diferentes aplicaciones de estos procesos de forma online y presencial, las rutas de recolección y los protocolos de diligenciamiento en la recopilación de información. 
 
     
     .row.justify-content-center.mt-5
@@ -25,7 +23,7 @@
         .bloque-texto-g.color-secundario.p-4.mb-4
           .row.justify-content-center            
             .col-lg-7
-              p El desarrollo de un proceso investigativo es fundamental para el mantenimiento, sostenimiento y crecimiento de las organizaciones, no obstante, este tiene unos pasos y características específicas, las cuales se deben tener presente para la obtención de buenos resultados. La aplicación de instrumentos para la recolección es vital para el desarrollo investigativo, por lo que requiere que se desarrolle de forma adecuada siguiendo las instrucciones o normas infundadas por la organización y presaberes establecidos.
+              p El desarrollo de un proceso investigativo es fundamental para el mantenimiento, sostenimiento y crecimiento de las organizaciones, no obstante, este tiene unos pasos y características específicas, las cuales se deben tener presente para la obtención de buenos resultados. La aplicación de instrumentos para la recolección es vital para el desarrollo investigativo, por lo que requiere que se desarrolle de forma adecuada siguiendo las instrucciones o normas infundadas por la organización y presaberes establecidos. 
 
             .col-lg-2
         figure
@@ -35,9 +33,9 @@
 
     .row.mt-4
       .col-5.col-lg-2        
-      .col-lg-9
-        .bloque-texto-b.color-secundario.p-4
-          .bloque-texto-b__texto
+      .col-lg-9.bg1
+        .bloque-texto-b1.color-secundario.p-4
+          .bloque-texto-b1__texto
             .row.display-flex
               .col-lg-6
                 .row.display-flex
@@ -51,16 +49,13 @@
                   .col-2
                     img.img-a.img-t(src='@/assets/curso/temas/Introduccion/img2.svg' width='85' height='94')  
                   .col-10         
-                    p La metodología del componente es teórica práctica, ya que se contextualizará al lector con definiciones y explicaciones de casos prácticos a los cuales se les profundizará con videos como material complementario, culminando con actividades prácticas para validar el conocimiento, como lo es un taller de relacionamiento de conceptos y una guía de aprendizaje. 
+                    p La metodología del componente es teórica práctica, ya que se contextualizará al lector con definiciones y explicaciones de casos prácticos a los cuales se les profundizará con videos como material complementario, culminando con actividades prácticas para validar el conocimiento, como lo es un taller de relacionamiento de conceptos y una guía de aprendizaje.
 
-    p.mt-5 A continuación, encontrará el video introductorio donde podrá visualizar de manera general todos los temas que serán desarrollados en este componente formativo.
+    p.mt-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
     .row.mt-4
           figure
             .video
               iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption VIDEO
-
-
 
     
 </template>
