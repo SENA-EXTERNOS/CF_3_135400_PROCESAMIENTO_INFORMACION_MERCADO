@@ -35,7 +35,7 @@
                         p De acuerdo con el desarrollo investigativo llevado a cabo por cualquier institución o entidad, es necesario resaltar la importancia que se tienen en cuanto al enfoque y clasificación de la información a recolectar, ya que según el tipo de investigación y objetivo de la misma se deberá validar los instrumentos para la recopilación de datos.
                        
                   .col-lg-9
-                    p.mt-2 Tal como se ha mencionado, no existe un paso a paso especifico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación: 
+                    p.mt-2 Tal como se ha mencionado, no existe un paso a paso específico de la forma adecuada de como verificar los instrumentos de investigación, ya que estos pueden variar de acuerdo con el tipo de investigación, su enfoque y los requerimientos organizacionales del ente investigador; sin embargo, se han logrado resaltar puntos relevantes que facilitan y posibilitan establecer estrategias específicas para cualquier tipo de verificación de los instrumentos de investigación: 
 
                 .col-9.col-lg-3
                   figure
