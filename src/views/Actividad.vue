@@ -12,7 +12,7 @@
         .titulo-segundo
           h2 Aplicación de instrumentos para recolectar información
         p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
-        p.mb-4 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+        p.mb-4 A continuación, encontrará varios términos y sus definiciones, los cuales fueron estudiados a lo largo del componente. Arrastre el término que corresponde a cada definición hasta el recuadro que encontrará en la columna de la derecha.
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
