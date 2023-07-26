@@ -178,7 +178,7 @@ export default {
     {
       termino: 'Factores',
       significado:
-        'elementos o aspectos que se utilizan para influir en el desarrollo de una acción o actividad especifica.',
+        'elementos o aspectos que se utilizan para influir en el desarrollo de una acción o actividad específica.',
     },
     {
       termino: 'Gráficos',

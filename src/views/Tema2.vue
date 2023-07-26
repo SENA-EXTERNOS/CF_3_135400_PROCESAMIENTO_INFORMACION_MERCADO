@@ -57,7 +57,7 @@
               .col-12
                 p.mb-0 Se debe indicar el tiempo suficiente para la recolección de información, encontrar un punto medio para la implementación de las herramientas de estudio; lo anterior podría indicar un costo superior en el desarrollo del proceso investigativo, ya que muchas plataformas o paneles 
                   i online 
-                  | cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado pude arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la formade pensar y actuar de las personas. 
+                  | cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado pude arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la forma de pensar y actuar de las personas. 
              
             .row(titulo="Adaptabilidad de los instrumentos de investigación")
               .col-12
@@ -103,14 +103,15 @@
          
       
       .col-lg-4.col-sm-10
-        figure
-          img(src='@/assets/curso/temas/Tema2/img3.png').imagen-deco
+        img(src='@/assets/curso/temas/Tema2/img3.png').imagen-deco
       
-    
-    .row.justify-content-around.mt-4
-      .col-lg-12
-        figure
-          img(src='@/assets/curso/temas/Tema2/tarjeta.png')
+    .row.justify-content-center.align-items-center.mt-5           
+      .col-lg-10.bg11 
+        .row.justify-content-center
+          .col-lg-2.my-3
+            img.img-a.img-t.brad.p-3(src='@/assets/curso/temas/Tema2/tarjeta.png')
+          .col-10.my-3.j 
+            p.mb-0 Uno de los beneficios que ofrece la aplicación de instrumentos de recolección de datos presencial es la facilidad de establecer una comunicación más asertiva, ya que la interacción puede fluir al encontrarse cara a cara el encuestado con el encuestador. 
 
 
 
