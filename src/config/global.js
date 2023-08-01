@@ -195,7 +195,7 @@ export default {
     {
       termino: 'Proceso',
       significado:
-        'pasos, acciones o secuencias que permiten el desarrollo de una actividad especifica.',
+        'pasos, acciones o secuencias que permiten el desarrollo de una actividad específica.',
     },
 
     {
