@@ -12,7 +12,7 @@
         .col-lg-2
             img(src='@/assets/curso/temas/Tema1/img1.svg' ).imagen-deco                     
         .col-lg-10
-          p.mt-3 La verificación de los instrumentos de recolección de información, permite desarrollar un adecuado proceso investigativo, por lo que toma una función relevante dentro de lo que a este procedimiento se refiere. A pesar de no existir una ruta específica para la verificación de esta información, ya que esto puede determinarse de acuerdo a las directrices de las empresas, es importante destacar que existen algunos pasos que pueden ser aplicados a cualquier tipo de industria dentro del procesos de investigación y específicamente en la aplicabilidad de recolección de datos. 
+          p.mt-3 La verificación de los instrumentos de recolección de información, permite desarrollar un adecuado proceso investigativo, por lo que toma una función relevante dentro de lo que a este procedimiento se refiere. A pesar de no existir una ruta específica para la verificación de esta información, ya que esto puede determinarse de acuerdo a las directrices de las empresas, es importante destacar que existen algunos pasos que pueden ser aplicados a cualquier tipo de industria dentro del proceso de investigación y específicamente en la aplicabilidad de recolección de datos. 
           p En el siguiente vídeo podrá ver estrategias de verificación de instrumentos: 
     .row.mt-4
         figure
@@ -104,7 +104,7 @@
 
             .row(titulo="Enumerar los pasos")
               .col-12
-                p.mb-0 Los elementos instructivos deben ir numerados, esto facilitara al lector comprender el paso a paso a seguir para el desarrollo de determinada actividad.
+                p.mb-0 Los elementos instructivos deben ir numerados, esto facilitará al lector comprender el paso a paso a seguir para el desarrollo de determinada actividad.
 
             
             
@@ -123,7 +123,7 @@
              
             .row(titulo="Incluir todos los elementos que se deberán utilizar para el desarrollo de las actividades")
               .col-12
-                p.mb-0 Esto no se refiere a incluir físicamente las herramientas o elementos necesarios para llevar a cabo el proceso investigativo, en este punto se busca establecer que es necesario mencionar y en dado caso definir y acompañar con imágenes ilustrativas los artículos a utilizaren en cada paso del proceso investigativo.
+                p.mb-0 Esto no se refiere a incluir físicamente las herramientas o elementos necesarios para llevar a cabo el proceso investigativo, en este punto se busca establecer que es necesario mencionar y en dado caso definir y acompañar con imágenes ilustrativas los artículos a utilizar en cada paso del proceso investigativo.
     
             .row(titulo="Verificar redacción y ortografía")
               .col-12
@@ -166,7 +166,7 @@
                 img(src="@/assets/curso/temas/Tema1/img8.png", alt="alt").img100
             .col-lg-8
               h5 Imágenes 
-              p Según el tipo de resultado a obtener, si se es necesario, los encuestadores deberán suministrar imágenes o gráficos relevantes para el desarrollo de las preguntas, un ejemplo de esto es la selección de un logo o la muestra de determinada tipología de prenda de vestir.
+              p Según el tipo de resultado a obtener, si es necesario, los encuestadores deberán suministrar imágenes o gráficos relevantes para el desarrollo de las preguntas, un ejemplo de esto es la selección de un logo o la muestra de determinada tipología de prenda de vestir.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
@@ -210,7 +210,7 @@
 
               .tarjeta.color-acento-botones.p-4(x="55.3%" y="51%" numero="✓" style='border-radius: 10px; background-color: #FEF536')
                 h5.mb-3 Vigilancia de la recolección de información
-                p.mb-0 Este paso va muy de la mano con el anterior, ya que es el encargado de supervisar el cumplimiento de las normas pactadas dentro del estudio para la garantizar un buen proceso de recolección de la información. 
+                p.mb-0 Este paso va muy de la mano con el anterior, ya que es el encargado de supervisar el cumplimiento de las normas pactadas dentro del estudio para garantizar un buen proceso de recolección de la información. 
 
               .tarjeta.color-acento-botones.p-4(x="86.5%" y="80%" numero="✓" style='border-radius: 10px; background-color: #FEF536')
                 h5.mb-3 Dar por terminada la recolección de datos
@@ -218,7 +218,7 @@
 
               .tarjeta.color-acento-botones.p-4(x="86%" y="51%" numero="✓" style='border-radius: 10px; background-color: #FEF536')
                 h5.mb-3 Calificar el proceso de recolección de información 
-                p.mb-0 La evaluación del proceso de recolección de datos, permite facilitar y contribuir con la mejora de próximos procesos similares, ya que esto determinara la implementación de cambios pertinentes, ya sea en la herramienta de recolección de información, los miembros encargados del desarrollo de dicho proceso, el tipo de ambiente o cualquier otra característica que se considere relevante. 
+                p.mb-0 La evaluación del proceso de recolección de datos, permite facilitar y contribuir con la mejora de próximos procesos similares, ya que esto determinará la implementación de cambios pertinentes, ya sea en la herramienta de recolección de información, los miembros encargados del desarrollo de dicho proceso, el tipo de ambiente o cualquier otra característica que se considere relevante. 
 
 
 

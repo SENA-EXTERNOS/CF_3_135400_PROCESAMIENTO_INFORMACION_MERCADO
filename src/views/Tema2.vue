@@ -57,7 +57,7 @@
               .col-12
                 p.mb-0 Se debe indicar el tiempo suficiente para la recolección de información, encontrar un punto medio para la implementación de las herramientas de estudio; lo anterior podría indicar un costo superior en el desarrollo del proceso investigativo, ya que muchas plataformas o paneles 
                   i online 
-                  | cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado pude arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la forma de pensar y actuar de las personas. 
+                  | cobran de acuerdo con el tiempo en que el instrumento de recolección de datos se encuentre disponible dentro de las mismas para su desarrollo por parte del público objetivo. De igual forma un tiempo muy prolongado puede arrojar respuestas erróneas, ya que día a día se presentan cambios en la sociedad que afectan la forma de pensar y actuar de las personas. 
              
             .row(titulo="Adaptabilidad de los instrumentos de investigación")
               .col-12
@@ -99,7 +99,7 @@
         p La aplicación de los instrumentos de recolección de información de manera presencial es uno de los métodos más clásicos que existe en cuanto a lo que se refiere el proceso investigativo, no obstante, esto ha ido cambiando conforme los años.
         p Al igual que en la aplicación de instrumentos de recolección de datos 
           i online, 
-          | las personas que participen en este tipo de procesos buscaran obtener un incentivo a cambio del desarrollo de esta, ya que no es muy fácil que los grupos a encuestar acepten de forma gratuita en la participación de las mismas. No obstante, existen muchas empresas que consiguen el desarrollo de este tipo de investigación con participantes que simplemente deseen contribuir con el mismo proceso investigativo, lo que las empresas pueden agradecer ofreciendo algún tipo de obsequio por su participación.
+          | las personas que participen en este tipo de procesos buscarán obtener un incentivo a cambio del desarrollo de esta, ya que no es muy fácil que los grupos a encuestar acepten de forma gratuita en la participación de las mismas. No obstante, existen muchas empresas que consiguen el desarrollo de este tipo de investigación con participantes que simplemente deseen contribuir con el mismo proceso investigativo, lo que las empresas pueden agradecer ofreciendo algún tipo de obsequio por su participación.
          
       
       .col-lg-4.col-sm-10
