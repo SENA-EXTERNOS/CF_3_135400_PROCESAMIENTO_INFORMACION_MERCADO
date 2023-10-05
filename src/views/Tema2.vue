@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema2/img1.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p(data-aos="fade-down").mb-0 La recolección de información es un paso esencial para el desarrollo de cualquier proceso investigativo, es por esto que es necesario que se seleccione y aplique de forma adecuada los instrumentos de recolección de datos, ya que no todos los instrumentos de recolección de datos pueden ser utilizados en los diferentes tipos de investigaciones, todo esto dependerá del objetivo del estudio investigativo y los recursos que disponga la empresa. 
+            p(data-aos="fade-down").mb-0 La recolección de información es un paso esencial para el desarrollo de cualquier proceso investigativo, es por esto que es necesario que se seleccione y aplique de forma adecuada los instrumentos de recolección de datos, ya que no todos pueden ser utilizados en los diferentes tipos de investigaciones, todo esto dependerá del objetivo del estudio investigativo y los recursos que disponga la empresa. 
 
         separador
 
@@ -176,9 +176,6 @@
           .tarjeta.dimensiontarjeta.colorblue.p-4(titulo="<small>Seguimiento de las indicaciones</small>")
             b Seguimiento de las indicaciones
             p.mt-3 Las personas encuestadas tienen el deber de llevar a cabo el seguimiento de indicaciones brindadas por los encuestadores.
-
-
-
 
 
           .tarjeta.colorblue.p-4(titulo="<small>Indagar sobre interrogantes <br>presentados durante el proceso</small>")

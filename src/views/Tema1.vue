@@ -68,7 +68,7 @@
 
               .tarjeta.color-acento-contenido.p-4(x="97%" y="65%" numero="+" style='border-radius: 10px;  background-color: #5C22C3')
                 
-                p.mb-0 Con esto se refiere a validar si en preguntas de opciones múltiples, las respuestas logren tener congruencia y coherencia, ya que no solo se trata de elaborar buenas preguntas, también se debe tener un enfoque claro en las respuestas en preguntas de este tipo.  
+                p.mb-0 Con esto se refiere a validar si en preguntas de opción múltiple, las respuestas logran tener congruencia y coherencia, ya que no solo se trata de elaborar buenas preguntas, también se debe tener un enfoque claro en las respuestas en preguntas de este tipo.  
 
               .tarjeta.color-acento-contenido.p-4(x="97%" y="79%" numero="+" style='border-radius: 10px; background-color: #5C22C3')
               
